@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trex-cloths/static/css/main.2067d065.css",
+    "main.js": "/trex-cloths/static/js/main.227a777c.js",
+    "static/js/787.9e165430.chunk.js": "/trex-cloths/static/js/787.9e165430.chunk.js",
+    "index.html": "/trex-cloths/index.html",
+    "main.2067d065.css.map": "/trex-cloths/static/css/main.2067d065.css.map",
+    "main.227a777c.js.map": "/trex-cloths/static/js/main.227a777c.js.map",
+    "787.9e165430.chunk.js.map": "/trex-cloths/static/js/787.9e165430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2067d065.css",
+    "static/js/main.227a777c.js"
+  ]
+}
